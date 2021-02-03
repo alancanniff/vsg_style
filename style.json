@@ -1,0 +1,113 @@
+{
+    "local_rules":"./rules",
+    "rule":{
+        "global":{
+            "disable": true,
+            "indentSize": 4
+        },
+        "constant_001": {
+            "disable": false
+        },
+        "constant_002": {
+            "disable": false
+        },
+        "constant_004": {
+            "case": "upper",
+            "disable": false
+        },
+        "constant_005": {
+            "disable": false
+        },
+        "constant_007": {
+            "disable": false
+        },
+        "constant_010": {
+            "disable": false
+        },
+        "constant_012": {
+            "disable": false
+        },
+        "constant_013": {
+            "disable": false
+        },
+        "localized_001": {
+            "disable": false
+        },
+        "localized_002": {
+            "disable": false
+        },
+        "localized_003": {
+            "disable": false
+        },
+        "localized_004": {
+            "disable": false
+        },
+        "localized_005": {
+            "disable": false
+        },
+        "localized_006": {
+            "disable": false
+        },
+        "localized_007": {
+            "disable": false
+        },
+        "localized_008": {
+            "disable": false
+        },
+        "localized_009": {
+            "disable": false
+        },
+        "localized_010": {
+            "disable": false
+        },
+        "localized_011": {
+            "disable": false
+        },
+        "for_loop_001": {
+            "disable": false
+        },
+        "for_loop_002": {
+            "disable": false
+        },
+        "for_loop_003": {
+            "disable": false
+        },
+        "for_loop_005": {
+            "disable": false
+        },
+        "function_001": {
+            "disable": false
+        },
+        "function_002": {
+            "disable": false
+        },
+        "function_004": {
+            "disable": false
+        },
+        "function_005": {
+            "disable": false
+        },
+        "function_006": {
+            "disable": false
+        },
+        "function_007": {
+            "disable": false
+        },
+        "function_008": {
+            "disable": false
+        },
+        "function_009": {
+            "disable": false
+        },
+        "function_010": {
+            "disable": false
+        },
+        "function_013": {
+            "disable": false
+        },
+        "process_029": {
+            "clock": "edge",
+            "disable": false
+        }
+    }
+}
