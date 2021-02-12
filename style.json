@@ -5,6 +5,87 @@
             "disable": true,
             "indentSize": 4
         },
+        "architecture_001": {
+            "disable": false
+        },
+        "architecture_003": {
+            "disable": false
+        },
+        "architecture_004": {
+            "disable": false
+        },
+        "architecture_005": {
+            "disable": false
+        },
+        "architecture_006": {
+            "disable": false
+        },
+        "architecture_007": {
+            "disable": false
+        },
+        "architecture_008": {
+            "disable": false
+        },
+        "architecture_009": {
+            "disable": false
+        },
+        "architecture_010": {
+            "disable": false
+        },
+        "architecture_011": {
+            "disable": false
+        },
+        "architecture_012": {
+            "disable": false
+        },
+        "architecture_013": {
+            "disable": false
+        },
+        "architecture_013": {
+            "disable": false
+        },
+        "architecture_014": {
+            "disable": false
+        },
+        "architecture_017": {
+            "disable": false
+        },
+        "architecture_017": {
+            "disable": false
+        },
+        "architecture_019": {
+            "disable": false
+        },
+        "architecture_020": {
+            "disable": false
+        },
+        "architecture_021": {
+            "disable": false
+        },
+        "architecture_022": {
+            "disable": false
+        },
+        "architecture_024": {
+            "disable": false
+        },
+        "architecture_030": {
+            "disable": false
+        },
+        "architecture_031": {
+            "disable": false
+        },
+        "architecture_032": {
+            "disable": false
+        },
+        "architecture_033": {
+            "disable": false
+        },
+        "architecture_200": {
+            "disable": false
+        },
+        "architecture_600": {
+            "disable": false
+        },
         "constant_001": {
             "disable": false
         },
