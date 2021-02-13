@@ -86,6 +86,53 @@
         "architecture_600": {
             "disable": false
         },
+        ##################################
+        "assert_001": {
+            "disable": false
+        },
+        "assert_400": {
+            "disable": false,
+            "alignment": "left"
+        },
+        ##################################
+        "attribute_declaration_100": {
+            "disable": false
+        },
+        "attribute_declaration_300": {
+            "disable": false
+        },
+        "attribute_declaration_500": {
+            "disable": false
+        },
+        "attribute_declaration_501": {
+            "disable": false
+        },
+        "attribute_declaration_502": {
+            "disable": false
+        },
+        ##################################
+        "attribute_specification_100": {
+            "disable": false
+        },
+        "attribute_specification_101": {
+            "disable": false
+        },
+        "attribute_specification_300": {
+            "disable": false
+        },
+        "attribute_specification_500": {
+            "disable": false
+        },
+        "attribute_specification_501": {
+            "disable": false
+        },
+        "attribute_specification_502": {
+            "disable": false
+        },
+        "attribute_specification_503": {
+            "disable": false
+        },
+        ##################################
         "constant_001": {
             "disable": false
         },
@@ -142,6 +189,9 @@
             "disable": false
         },
         "localized_011": {
+            "disable": false
+        },
+        "localized_012": {
             "disable": false
         },
         "for_loop_001": {
