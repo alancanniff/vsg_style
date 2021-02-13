@@ -133,6 +133,25 @@
             "disable": false
         },
         ##################################
+        "block_001": {
+            "disable": false
+        },
+        "block_003": {
+            "disable": false
+        },
+        "block_004": {
+            "disable": false
+        },
+        "block_005": {
+            "disable": false
+        },
+        "block_006": {
+            "disable": false
+        },
+        "block_007": {
+            "disable": false
+        },
+        ##################################
         "constant_001": {
             "disable": false
         },
@@ -192,6 +211,9 @@
             "disable": false
         },
         "localized_012": {
+            "disable": false
+        },
+        "localized_013": {
             "disable": false
         },
         "for_loop_001": {
