@@ -1,1 +1,5 @@
 1 blank space after block colon
+case labels not the handled the same as process / block
+    * no check if labeles match
+    * case of labbel
+    * spacing etc...

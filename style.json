@@ -151,6 +151,101 @@
         "block_007": {
             "disable": false
         },
+        "block_101": {
+            "disable": false
+        },
+        "block_200": {
+            "disable": false,
+            "style": "allow_comments"
+        },
+        "block_205": {
+            "disable": false,
+            "style": "allow_comments"
+        },
+        "block_300": {
+            "disable": false
+        },
+        "block_301": {
+            "disable": false
+        },
+        "block_302": {
+            "disable": false
+        },
+        "block_500": {
+            "disable": false
+        },
+        "block_501": {
+            "disable": false
+        },
+        "block_502": {
+            "disable": false
+        },
+        "block_503": {
+            "disable": false
+        },
+        "block_504": {
+            "disable": false
+        },
+        "block_505": {
+            "disable": false
+        },
+        "block_506": {
+            "disable": false
+        },
+        ##################################
+        "case_001": {
+            "disable": false
+        },
+        "case_002": {
+            "disable": false
+        },
+        "case_003": {
+            "disable": false
+        },
+        "case_004": {
+            "disable": false
+        },
+        "case_005": {
+            "disable": false
+        },
+        "case_006": {
+            "disable": false
+        },
+        "case_007": {
+            "disable": false,
+            "style": "allow_comments"
+        },
+        "case_010": {
+            "disable": false
+        },
+        "case_012": {
+            "disable": false
+        },
+        "case_013": {
+            "disable": false
+        },
+        "case_014": {
+            "disable": false
+        },
+        "case_015": {
+            "disable": false
+        },
+        "case_016": {
+            "disable": false
+        },
+        "case_017": {
+            "disable": false
+        },
+        "case_018": {
+            "disable": false
+        },
+        ##################################
+        "comment_004": {
+            "disable": false
+        },
+        "comment_010": {
+            "disable": false
+        },
         ##################################
         "constant_001": {
             "disable": false
