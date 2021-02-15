@@ -247,6 +247,75 @@
             "disable": false
         },
         ##################################
+        "component_001": {
+            "disable": false
+        },
+        "component_002": {
+            "disable": false
+        },
+        "component_003": {
+            "disable": false
+        },
+        "component_004": {
+            "disable": false
+        },
+        "component_005": {
+            "disable": false
+        },
+        "component_006": {
+            "disable": false
+        },
+        "component_007": {
+            "disable": false
+        },
+        "component_008": {
+            "disable": false
+        },
+        "component_009": {
+            "disable": false
+        },
+        "component_010": {
+            "disable": false
+        },
+        "component_011": {
+            "disable": false
+        },
+        "component_012": {
+            "disable": false
+        },
+        "component_013": {
+            "disable": false
+        },
+        "component_014": {
+            "disable": false
+        },
+        "component_017": {
+            "disable": false,
+            "compact_alignment": true,
+            "blank_line_ends_group": false,
+            "comment_line_ends_group": false,
+            "separate_generic_port_alignment": true
+        },
+        "component_018": {
+            "disable": false
+        },
+        "component_021": {
+            "disable": false
+        },
+        ##################################
+        "concurrent_001": {
+            "disable": false
+        },
+        "concurrent_002": {
+            "disable": false
+        },
+        "concurrent_004": {
+            "disable": false
+        },
+        "concurrent_010": {
+            "disable": false
+        },
+        ##################################
         "constant_001": {
             "disable": false
         },
@@ -272,6 +341,7 @@
         "constant_013": {
             "disable": false
         },
+        ##################################
         "localized_001": {
             "disable": false
         },
